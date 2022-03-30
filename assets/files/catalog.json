@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Chamadora",
+            "desc": "Plant, Outdoor",
+            "price": 30,
+            "color": "#33505a",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/Chamadora%20.png?alt=media&token=cbbf1cc7-9763-4e4f-8d51-fe43affa23ca"
+        },
+        {
+            "id": 2,
+            "name": "JadePlant",
+            "desc": "Plant, Indoor",
+            "price": 21,
+            "color": "#00ac51",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/JadePlant.jpg?alt=media&token=4b522303-b462-4a80-bccb-2f6c0db538c8"
+        },
+        {
+            "id": 3,
+            "name": "Bougainvillea Plant",
+            "desc": "Flower, Indoor",
+            "price": 45,
+            "color": "#e0bfae",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/nursery%2FBougainvilleaPlant.jpg?alt=media&token=96ac8573-db41-482c-967b-c3cfcc8a3021"
+        },
+        {
+            "id": 4,
+            "name": "Hanging Verbena",
+            "desc": "Flower, Outdoor",
+            "price": 30,
+            "color": "#544ee4",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/nursery%2FHangingVerbena.jpg?alt=media&token=4862bcb9-080f-4faa-aed6-205c4f4457a1"
+        },
+        {
+            "id": 5,
+            "name": "Silver Yucca",
+            "desc": "Plant, Outdoor",
+            "price": 10,
+            "color": "#e3e4e9",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/SilverYucca.jpg?alt=media&token=c7af8f25-c840-4fc7-b804-a36912ac18ab"
+        },
+        {
+            "id": 6,
+            "name": "AfricanVoilet",
+            "desc": "Flower, Indoor",
+            "price": 30,
+            "color": "#f73984",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/nursery%2FAfricanVoilet.jpg?alt=media&token=3803c83b-11c1-4901-8391-ee11f680701b"
+        },
+        {
+            "id": 7,
+            "name": "String of Dolphin",
+            "desc": "Flowe, Indoor, Outdoor",
+            "price": 22,
+            "color": "#1c1c1c",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/String%20of%20Dolphin.jpg?alt=media&token=9c6ad76d-8335-4388-adda-ef4944aa43b5"
+        },
+        {
+            "id": 8,
+            "name": "Dhupi",
+            "desc": "Plant, Outdoor",
+            "price": 20,
+            "color": "#7c95eb",
+            "image": "https://firebasestorage.googleapis.com/v0/b/krishi-a839f.appspot.com/o/dhupi.jpg?alt=media&token=88384e5e-9e5d-4cc6-9967-0914959d05bd"
+        }
+    ]
+}
